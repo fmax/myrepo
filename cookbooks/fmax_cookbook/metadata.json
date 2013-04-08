@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "groupings": {
+  },
+  "replacing": {
+  },
+  "recipes": {
+    "fmax_cookbook::default": "prints hello world output"
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "attributes": {
+  },
+  "platforms": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "name": "fmax_cookbook",
+  "description": "Installs/Configures fmax_cookbook",
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "recommendations": {
+  },
+  "dependencies": {
+  },
+  "providing": {
+  },
+  "license": "All rights reserved"
+}
